@@ -97,12 +97,3 @@ I specialize in identifying realistic attack paths, chaining vulnerabilities, an
 #### 2020
 - **Ekoparty**: *Active Directory: Post Exploitation Attacks* | [🎥 Video](https://www.youtube.com/watch?v=3wXe7pX2b7A) | [📊 Slides](https://docs.google.com/presentation/d/e/2PACX-1vRBmHmty9CCgftXu1L4O2EBrvIKj5pVFqQFHm5rjrON7opm938SSEEP-zfUmWBZ6_MGCbHWcvBGRUIJ/pub)
 - **Ekoparty: Lockpickar Space**: *Hacking RF for Physical Security* | [🎥 Video](https://www.youtube.com/watch?v=tJIiYSNip00) | [📊 Slides](https://docs.google.com/presentation/d/e/2PACX-1vRJL15q0qN9JIEpBl8HPB5nUdkbqenZ7Gvunpxlck-uN0QzGIn1goK44b7RacNlu2GBCiHhZjLy2CWJ/pub)
-
-#### 2019
-- **Ekoparty: Radioexperimentación Space**: *Analysing Frequencies With SDR* | [📊 Slides](https://docs.google.com/presentation/d/e/2PACX-1vQS8KfUB3145d-ubtROZraUTDv55jYlwV7xiCCrDb8re3l7CbSu61zjKtnzWfrGR4hgvNpayJRsbw27/pub)
-
-#### 2018
-- **Ekoparty**: *Starting With Ham Radio* | [📊 Slides](https://docs.google.com/presentation/d/e/2PACX-1vSQcRfdVgOQ9J1cwbfIRwfYg0QxHIymP9HO-fSUJEDdmACCZ3D36YlneHNhTW87EQdYRvPuQ5qi23m3/pub)
-
-#### 2017
-- **404Zone**: *Esteganografia: Ocultando datos a simple vista* | [📊 Slides](https://docs.google.com/presentation/d/e/2PACX-1vSgI61uYgJ3sZLq7R4n7YDitGv2YvCP9yH6DGyIDYPWzZJbKAkq9a9Oj7DrsVCRDaNJ4eGQT5z8Gqu6/pub)
