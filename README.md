@@ -52,7 +52,7 @@ I specialize in identifying realistic attack paths, chaining vulnerabilities, an
 
 <h3>Cloud & Infrastructure</h3>
 <p>
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logoColor=white&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMjAwIiB2aWV3Qm94PSIwIDAgNDY0IDQ4MCIgZmlsbD0iI2ZmZmZmZiI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0ibTIgODdsMjA0IDY3djI5MkwzIDM3N3ptMjU1IDM2MGwyMDUtNzBWODlsLTIwNCA2NHptLTI1LTMyOGwxODgtNjFMMjMyIDFMMzkgNTh6Ii8%2BPC9zdmc%2B"/>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
@@ -62,14 +62,15 @@ I specialize in identifying realistic attack paths, chaining vulnerabilities, an
 <h3>Offensive Security</h3>
 <p>
   <img src="https://img.shields.io/badge/Burp_Suite_Pro-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-2244EE?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQLMap-1A1A1A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Metasploit-2875CC?style=for-the-badge&logo=metasploit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FFUF-333333?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Frida-212121?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/jadx-6D6D6D?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MobSF-104060?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cobalt_Strike-339933?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-2B7DB3?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLMap-E32A2A?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FFUF-00C853?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Frida-6200EA?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jadx-D50000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MobSF-00B4D8?style=for-the-badge&logoColor=white"/>
 </p>
 
 <h2 align="left">🎤 Talks & Workshops</h2>
