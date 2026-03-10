@@ -35,7 +35,7 @@ I specialize in identifying realistic attack paths, chaining vulnerabilities, an
   <p><a href="https://portswigger.net/web-security/e/c/d7a6ec54f21b4a92" target="_blank"><img src="https://img.shields.io/badge/BSCP-Burp_Suite_Certified_Practitioner-darkorange?style=flat-square" alt="BSCP"></a></p>
   <p><a href="https://www.credential.net/346feaaf-7b1c-4be8-95ed-4f001ee4faa4" target="_blank"><img src="https://img.shields.io/badge/OSCP-Offensive_Security_Certified_Professional-darkblue?style=flat-square&logo=offensive-security" alt="OSCP"></a></p>
   <p><a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=2p9jdVf3UL+9wtfrkFV+SYfpBJigNgUGaAISYiAComI=" target="_blank"><img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-red?style=flat-square" alt="CEH"></a></p>
-  <p><a href="https://verified.elearnsecurity.com/certificates/46bffd40-95a7-43ff-9188-3d93959f1af8" target="_blank"><img src="https://img.shields.io/badge/eJPT-Junior_Penetration_Tester-green?style=flat-square" alt="eJPT"></a></p>
+  <p><a href="https://verified.elearnsecurity.com/certificates/46bffd40-95a7-43ff-9188-3d93959f1af8" target="_blank"><img src="https://img.shields.io/badge/eJPT-Junior_Penetration_Tester-darkgreen?style=flat-square" alt="eJPT"></a></p>
 </p>
 
 <h2>💻 Languages and technologies</h2>
