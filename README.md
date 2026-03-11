@@ -31,6 +31,7 @@ I specialize in identifying realistic attack paths, chaining vulnerabilities, an
 
 <h2 align="left">🏆 Certifications</h2>
 <p align="left">
+  <p><a href="https://certs.zeropointsecurity.co.uk/5e1f1246-04c2-4e40-aad2-1bd04f03e6a4#acc.a17Ylfdu" target="_blank"><img src="https://img.shields.io/badge/CRTL-Certified_Red_Team_Lead-darkgreen?style=flat-square" alt="CRTL"></a></p>
   <p><a href="https://certs.zeropointsecurity.co.uk/f647f248-a5fe-48e8-baf8-134b73fcf0c8#acc.iTqAIUQb" target="_blank"><img src="https://img.shields.io/badge/CRTO-Certified_Red_Team_Operator-darkred?style=flat-square" alt="CRTO"></a></p>
   <p><a href="https://portswigger.net/web-security/e/c/d7a6ec54f21b4a92" target="_blank"><img src="https://img.shields.io/badge/BSCP-Burp_Suite_Certified_Practitioner-darkorange?style=flat-square" alt="BSCP"></a></p>
   <p><a href="https://www.credential.net/346feaaf-7b1c-4be8-95ed-4f001ee4faa4" target="_blank"><img src="https://img.shields.io/badge/OSCP-Offensive_Security_Certified_Professional-darkblue?style=flat-square&logo=offensive-security" alt="OSCP"></a></p>
