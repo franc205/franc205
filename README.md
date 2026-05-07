@@ -1,35 +1,56 @@
 <h1 align="center">Hi 👋, I'm Fran Canteli</h1>
-<h3 align="center">Offensive Security Engineer · Buenos Aires, Argentina 🇦🇷</h3>
+<h3 align="center">Senior Security Engineer · Application Security & Offensive Security · Buenos Aires, Argentina 🇦🇷</h3>
 
 <p align="center">
-I specialize in identifying realistic attack paths, chaining vulnerabilities, and demonstrating business-impacting risk across web, mobile, cloud, and infrastructure environments.
+I work at the intersection of offensive security and application security, helping teams identify exploitable vulnerabilities, understand real-world impact, prioritize remediation, and reduce risk across web, mobile, cloud, and infrastructure environments.
 </p>
 
 <h2 align="left">🧑‍💻 About me</h2>
+
 <p align="left">
 📍 Buenos Aires, Argentina<br>
-🛠️ Senior Offensive Security Engineer<br>
-🔧 I deliver advanced penetration testing and lead offensive security initiatives.<br>
-🎓 7+ years of hands-on experience in AppSec and Red Teaming.<br>
-🌱 Passionate about Attack Path Discovery, Exploit Validation, and practical high-impact techniques.
+🛠️ Senior Security Engineer with a strong Offensive Security background<br>
+🎯 Focused on Application Security, vulnerability management, cloud security, and practical remediation<br>
+🔍 7+ years of hands-on experience across web, mobile, internal, external, and cloud security assessments<br>
+🧠 I like turning offensive findings into clear risk, actionable recommendations, and security improvements that technical teams can actually use
 </p>
 
 <h2 align="left">🚀 What I do</h2>
+
 <p align="left">
-📱 <b>Application Security:</b> Web and Mobile Penetration Testing.<br>
-☁️ <b>Infrastructure:</b> Cloud, Internal, and External Penetration Testing.<br>
-🧠 <b>Vulnerability Management:</b> Exploit validation, impact analysis, and remediation guidance.<br>
-🧰 <b>Red Teaming:</b> Attack Path Discovery, Privilege Escalation, and Post-Exploitation.
+📱 <b>Application Security:</b> Web and mobile application testing, vulnerability analysis, remediation guidance, and secure coding discussions.<br>
+☁️ <b>Cloud & Infrastructure Security:</b> Cloud, internal, external, and infrastructure security assessments.<br>
+🧠 <b>Vulnerability Management:</b> Exploitability validation, impact analysis, prioritization, false-positive reduction, and remediation follow-up.<br>
+🧰 <b>Offensive Security:</b> Penetration testing, attack path discovery, privilege escalation, post-exploitation, and realistic risk demonstration.<br>
+⚙️ <b>Security Automation:</b> Scripts and workflows to reduce repetitive work, improve consistency, and support security assessment processes.
+</p>
+
+<h2 align="left">🧭 Current focus</h2>
+
+<p align="left">
+I’m currently focused on applying my offensive security background to Application Security Engineering: vulnerability triage, secure SDLC practices, AppSec testing, cloud security, automation, and collaboration with development teams.
+</p>
+
+<p align="left">
+I approach SAST, DAST, SCA, and CI/CD security workflows as part of a broader AppSec process: validating findings, reducing noise, prioritizing exploitable issues, and helping teams move from detection to remediation.
 </p>
 
 <h2 align="left">📫 Connect with me</h2>
+
 <p align="left">
-<a href="https://linkedin.com/in/franc205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://x.com/franc_205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="mailto:franc.c205@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/franc205" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Fran%20Canteli&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/franc_205" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=X&message=@franc_205&color=000000&style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="mailto:franc.c205@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=Email&message=franc.c205%40gmail.com&color=D14836&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 <h2 align="left">🏆 Certifications</h2>
+
 <p align="left">
   <p><a href="https://certs.zeropointsecurity.co.uk/5e1f1246-04c2-4e40-aad2-1bd04f03e6a4#acc.a17Ylfdu" target="_blank"><img src="https://img.shields.io/badge/CRTL-Certified_Red_Team_Lead-darkgreen?style=flat-square" alt="CRTL"></a></p>
   <p><a href="https://certs.zeropointsecurity.co.uk/f647f248-a5fe-48e8-baf8-134b73fcf0c8#acc.iTqAIUQb" target="_blank"><img src="https://img.shields.io/badge/CRTO-Certified_Red_Team_Operator-darkred?style=flat-square" alt="CRTO"></a></p>
@@ -39,39 +60,51 @@ I specialize in identifying realistic attack paths, chaining vulnerabilities, an
   <p><a href="https://verified.elearnsecurity.com/certificates/46bffd40-95a7-43ff-9188-3d93959f1af8" target="_blank"><img src="https://img.shields.io/badge/eJPT-Junior_Penetration_Tester-darkgreen?style=flat-square" alt="eJPT"></a></p>
 </p>
 
-<h2>💻 Languages and technologies</h2>
+<h2>💻 Security Skills & Tooling</h2>
 
-<h3>Scripting & Automation</h3>
+<h3>Application Security</h3>
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js%20Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Application_Security-1F6FEB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Web_Security-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mobile_Security-2E7D32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vulnerability_Management-6F42C1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Secure_SDLC-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge"/>
 </p>
 
-<h3>Cloud & Infrastructure</h3>
+<h3>AppSec & DevSecOps Tooling</h3>
 <p>
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logoColor=white&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMjAwIiB2aWV3Qm94PSIwIDAgNDY0IDQ4MCIgZmlsbD0iI2ZmZmZmZiI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0ibTIgODdsMjA0IDY3djI5MkwzIDM3N3ptMjU1IDM2MGwyMDUtNzBWODlsLTIwNCA2NHptLTI1LTMyOGwxODgtNjFMMjMyIDFMMzkgNTh6Ii8%2BPC9zdmc%2B"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Semgrep-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gitleaks-2F4F4F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TruffleHog-8B4513?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge"/>
 </p>
 
 <h3>Offensive Security</h3>
 <p>
   <img src="https://img.shields.io/badge/Burp_Suite_Pro-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-2875CC?style=for-the-badge&logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cobalt_Strike-339933?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-2B7DB3?style=for-the-badge&logo=nmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLMap-E32A2A?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FFUF-00C853?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Frida-6200EA?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jadx-D50000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MobSF-00B4D8?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-2B7DB3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Metasploit-2875CC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQLMap-E32A2A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FFUF-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cobalt_Strike-339933?style=for-the-badge"/>
+</p>
+
+<h3>Cloud, Infrastructure & Automation</h3>
+<p>
+  <img src="https://img.shields.io/badge/AWS_Security-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud_Security-0F172A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+</p>
+<h3>Also worked with</h3>
+<p>
+  PowerShell · JavaScript · Node.js · n8n · Wireshark · Frida · jadx · MobSF · Checkov · Prowler · Terraform · Kubernetes
 </p>
 
 <h2 align="left">🎤 Talks & Workshops</h2>
